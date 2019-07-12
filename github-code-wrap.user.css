@@ -1,19 +1,34 @@
 /* ==UserStyle==
-@name         GitHub Code Wrap
-@version      1.0.10
-@description  Userstyle to wrap long code lines on GitHub
-@namespace    StylishThemes
-@author       StylishThemes
-@homepageURL  https://github.com/StylishThemes/GitHub-code-wrap
-@supportURL   https://github.com/StylishThemes/GitHub-code-wrap/issues
-@updateURL    https://raw.githubusercontent.com/StylishThemes/GitHub-code-wrap/master/github-code-wrap.user.css
+@name         Octotree-github-wrap
+@version      0.0.1
+@description  wrapper octotree-github
+@namespace    octotree-github-wrap
+@author       dw9694
+@homepageURL  https://github.com/dw9694/octotree-github-wrap
+@updateURL    https://raw.githubusercontent.com/dw9694/octotree-github-wrap/master/github-code-wrap.user.css?token=ABN42TX4Y3TAOF5GCLZCERC5FAICA
 @license      CC-BY-SA-4.0
 @preprocessor uso
 ==/UserStyle== */
-@-moz-document domain("github.com"), domain("gist.github.com") {
-  .blob-code-inner, .markdown-body pre > code, .markdown-body .highlight > pre {
-    white-space: pre-wrap !important;
-    word-break: break-all !important;
-    overflow-wrap: break-word !important;
+@-moz-document domain("github.com") {
+  .octotree-sidebar.octotree-github-sidebar .octotree-footer {
+    background-color: #181818;
+    bottom: 0;
+    font-size: 11px;
+    height: 30px;
+    position: absolute;
+    width: 100%;
+    border-top: 1px solid #484848;
+    border-right: 1px solid #484848;
+    padding: 6px 5px;
+  }
+  .octotree-sidebar.octotree-github-sidebar .octotree-footer .octotree-ad-small {
+    background-image: none;
+    background-repeat: no-repeat;
+  }
+  .octotree-sidebar.octotree-github-sidebar .octotree-footer .octotree-ad-small a {
+    color: #2b7fd3;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 1px;
   }
 }
