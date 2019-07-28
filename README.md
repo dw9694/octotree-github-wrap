@@ -1,6 +1,6 @@
-# GitHub-code-wrap [![tag](https://img.shields.io/github/tag/StylishThemes/GitHub-code-wrap.svg)](https://github.com/StylishThemes/GitHub-code-wrap/tags)
+# Octotree github wrap 
 
-Userstyle to wrap long code lines on GitHub.
+Css style for octotree
 
 ## Installation
 
@@ -11,19 +11,8 @@ A userstyle extension is required, common ones include:
 
 Then:
 
-📦 [Install the usercss](https://github.com/StylishThemes/GitHub-code-wrap/raw/master/github-code-wrap.user.css) with Stylus or xStyle. Supports automatic updates.
+📦 [Install the usercss](https://raw.githubusercontent.com/dw9694/octotree-github-wrap/master/octotree-github-wrap.user.css?token=ABN42TQAJGA73FVCEEW4CDS5HWKUI) with Stylus or xStyle. Supports automatic updates.
 
 ## Related
 
 &#x2764; [Code wrap toggle](https://github.com/StylishThemes/GitHub-Dark-Script#toggles) - This userscript is available on [GreasyFork](https://greasyfork.org/en/scripts/18789-github-toggle-code-wrap) & [OperUserJS](https://openuserjs.org/scripts/StylishThemes/GitHub_Toggle_Code_Wrap). It adds a toggle code wrap button within each code block to allow dynamic toggling of the code wrap.
-
-## Contributions
-
-If you would like to contribute to this repository, please...
-
-1. 👓 Read the [contribution guidelines](CONTRIBUTING.md).
-2. ![repo-forked](https://user-images.githubusercontent.com/136959/42383736-c4cb0db8-80fd-11e8-91ca-12bae108bccc.png) [fork](https://github.com/StylishThemes/GitHub-code-wrap/fork) or ![cloud-download](https://user-images.githubusercontent.com/136959/42401932-9ee9cae0-813d-11e8-8691-16e29a85d3b9.png)
-[Download](https://github.com/StylishThemes/GitHub-code-wrap/archive/master.zip),
-3. 👌 Create a pull request!
-
-Thanks to all that have [contributed](AUTHORS) so far!
