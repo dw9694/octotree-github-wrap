@@ -11,7 +11,7 @@ A userstyle extension is required, common ones include:
 
 Then:
 
-📦 [Install the usercss](https://raw.githubusercontent.com/dw9694/octotree-github-wrap/master/octotree-github-wrap.user.css?token=ABN42TR2UPVDEWRIZAGJJ2K5HWX46) with Stylus or xStyle. Supports automatic updates.
+📦 [Install the usercss](https://github.com/dw9694/octotree-github-wrap/raw/master/octotree-github-wrap.user.css) with Stylus or xStyle. Supports automatic updates.
 
 ## Related
 
