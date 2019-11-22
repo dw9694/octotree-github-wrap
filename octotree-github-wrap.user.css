@@ -58,4 +58,10 @@
     border-right: 1px solid #484848;
     padding: 6px 5px;
   }
+  .octotree-sidebar.octotree-github-sidebar .octotree-footer {
+    border-color: #484848 !important;
+  }
+  .octotree-sidebar.octotree-github-sidebar .octotree-footer > a {
+    display:none;
+  }
 }
