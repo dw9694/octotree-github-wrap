@@ -48,7 +48,7 @@
     text-decoration: none;
   }
   .octotree-sidebar.octotree-github-sidebar .octotree-footer {
-    background-color: #202020;
+    background-color: #202020 !important;
     bottom: 0;
     font-size: 11px;
     height: 30px;
