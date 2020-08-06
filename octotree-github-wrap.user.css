@@ -64,4 +64,10 @@
   .octotree-sidebar.octotree-github-sidebar .octotree-footer > a {
     display:none;
   }
+  .octotree-sidebar.octotree-github-sidebar .jstree-anchor.jstree-hovered {
+      background: #202020 !important;
+  }
+  .octotree-sidebar.octotree-github-sidebar .jstree-wholerow.jstree-wholerow-hovered {
+      background: #202020 !important;
+  }
 }
